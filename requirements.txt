@@ -1,0 +1,25 @@
+Agile
+
+1) Complete these user stories:
+    a) As a vanilla git power-user that has never seen GiggleGit before, I want to…
+    b) a team lead onboarding an experienced GiggleGit user, I want to…
+
+2) Create a third user story, one task for this user story, and two associated tickets.
+    a) Tasks should be a single phrase. (As should themes and epics. See those provided.)
+    b) User stories should be one to three sentences. 
+    c) Tickets should have a title consisting of a single phrase and details that are long enough to sufficiently describe what needs to be done. You do not need to assign points to the tickets
+
+3) This is not a user story. Why not? What is it?
+    a) As a user I want to be able to authenticate on a new machine 
+
+
+Formal Requirements
+
+1) List one goal and one non-goal
+
+2) Create two non-functional requirements. Here are suggestions of things to think about:
+    a) Who has access to what
+    b) PMs need to be able to maintain the different snickering concepts
+    c) A user study needs to have random assignments of users between control groups and variants
+
+3) For each non-functional requirement, create two functional requirements (for a grand total of four functional requirements). 
