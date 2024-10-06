@@ -1,16 +1,22 @@
 Agile
 
 1) Complete these user stories:
-    a) As a vanilla git power-user that has never seen GiggleGit before, I want to…
-    b) a team lead onboarding an experienced GiggleGit user, I want to…
+    a) User story 1: As a vanilla git power-user that has never seen GiggleGit before, I want to have clear documentation so I can easily understand how to navigate GiggleGit.
+    b) User story 2: As a team lead onboarding an experienced GiggleGit user, I want to have a comparison guide between Git and GiggleGit so the team can understand the differences between the two version control systems and to apply their knowledge from Git to GiggleGit.
 
-2) Create a third user story, one task for this user story, and two associated tickets.
+2) User story 3: As a project manager, I want to track progress in GiggleGit so I can make sure that projects are completed on time and to see where the team is falling behind.
+    Task: Implement a project tracking feature.
+        Ticket 1: Define project tracking requirements.
+            Talk to other project managers and team members to determine what would be helpful for showing progress when tracking requirements, such as task assignments and due dates.
+        Ticket 2: Develop a project dashboard user interface.
+            Design and build a user-friendly dashboard that shows the status of different projects and their deadlines, as well as team member contributions.
+
+Create a third user story, one task for this user story, and two associated tickets.
     a) Tasks should be a single phrase. (As should themes and epics. See those provided.)
     b) User stories should be one to three sentences. 
     c) Tickets should have a title consisting of a single phrase and details that are long enough to sufficiently describe what needs to be done. You do not need to assign points to the tickets
 
-3) This is not a user story. Why not? What is it?
-    a) As a user I want to be able to authenticate on a new machine 
+3) This is not a user story because it doesn't explain why the user wants authentication for GiggleGit. This would be considered a requirement because it doesn't explain how the user would benefit from authentication and instead focuses on what the system should do.
 
 
 Formal Requirements
