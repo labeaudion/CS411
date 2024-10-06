@@ -11,21 +11,25 @@ Agile
         Ticket 2: Develop a project dashboard user interface.
             Design and build a user-friendly dashboard that shows the status of different projects and their deadlines, as well as team member contributions.
 
-Create a third user story, one task for this user story, and two associated tickets.
-    a) Tasks should be a single phrase. (As should themes and epics. See those provided.)
-    b) User stories should be one to three sentences. 
-    c) Tickets should have a title consisting of a single phrase and details that are long enough to sufficiently describe what needs to be done. You do not need to assign points to the tickets
-
 3) This is not a user story because it doesn't explain why the user wants authentication for GiggleGit. This would be considered a requirement because it doesn't explain how the user would benefit from authentication and instead focuses on what the system should do.
+
 
 
 Formal Requirements
 
-1) List one goal and one non-goal
+1) List one goal and one non-goal.
+    Goal: Evaluate user engagement and satisfaction with syncing code changes while providing humorous feedback.
+    Non-goal: Develop a user analytics platform.
 
-2) Create two non-functional requirements. Here are suggestions of things to think about:
-    a) Who has access to what
-    b) PMs need to be able to maintain the different snickering concepts
-    c) A user study needs to have random assignments of users between control groups and variants
+2) Create two non-functional requirements.
+    Non-functional requirement 1: Access Control
+    Non-functional requirement 2: User Study Management
 
 3) For each non-functional requirement, create two functional requirements (for a grand total of four functional requirements). 
+    Non-functional requirement 1: Access Control
+        Functional requirement 1: Implement a role-based system where users with certain roles can access certain features in SnickerSync.
+        Functional requirement 2: Create an audit logging feature that keeps track of potentional role changes of each user.
+
+    Non-functional requirement 2: User Study Management
+        Functional requirement 1: Develop a random assignment algorithm that assigns users to different control groups for user studies.
+        Functional requirement 2: Create a dashboard for PMs to manage user studies, view assigned groups, and track participant engagement.
